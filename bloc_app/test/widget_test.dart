@@ -28,3 +28,5 @@ void main() {
     expect(find.text('1'), findsOneWidget);
   });
 }
+
+// Equatables for testing == equals on the basis of values
